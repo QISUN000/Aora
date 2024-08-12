@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View,TextInput,TouchableOpacity, Image } from 'react-native'
+import { Text, View,TextInput,TouchableOpacity, Image } from 'react-native'
 import React from 'react'
 import { useState } from "react";
 
@@ -47,5 +47,3 @@ const FormField = (
 }
 
 export default FormField
-
-const styles = StyleSheet.create({})
